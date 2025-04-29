@@ -1,0 +1,21 @@
+# === OS & editor artefacts ===
+.DS_Store
+Thumbs.db
+.vscode/       
+
+# === Python build artefacts ===
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# === Jupyter / scientific data ===
+*.ipynb_checkpoints/
+data/
+
+
+Matlabcode/
+archive/
+*$py.class
+resonator/
